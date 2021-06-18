@@ -17,9 +17,9 @@ Sequence to Sequence Encoder Decoder for Language Translation
 
 ![](https://github.com/Pratik007-og/Language_Translation/blob/main/eng-fra.jpg)<br>
 
-![](https://github.com/Pratik007-og/Language_Translation/blob/main/seq2seq.png)
+![](https://github.com/Pratik007-og/Language_Translation/blob/main/seq2seq.png)<br>
 
-Model Overview
+Model Overview<br>
 ![](https://github.com/Pratik007-og/Language_Translation/blob/main/model.png)
 
 
