@@ -13,11 +13,15 @@ It contains datasets in the form of pairs of words in input language and corresp
 
   
 ## Encoder Decoder RNNs architecture 
-![Sequence to Sequence Encoder Decoder]()
-![](https://github.com/Pratik007-og/Language_Translation/blob/main/eng-fra.jpg)
+Sequence to Sequence Encoder Decoder for Language Translation
+
+![](https://github.com/Pratik007-og/Language_Translation/blob/main/eng-fra.jpg)<br>
+
+![](https://github.com/Pratik007-og/Language_Translation/blob/main/seq2seq.png)
+
+![]
 
 
-  
 ## Pre-requisites
 You need to be thorough with some concepts to clearly grasp how the model is working and the complete flow of input to the target.
 These concepts are:
