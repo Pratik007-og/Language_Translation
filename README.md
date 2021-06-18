@@ -13,7 +13,8 @@ It contains datasets in the form of pairs of words in input language and corresp
 
   
 ## Encoder Decoder RNNs architecture 
-
+![Sequence to Sequence Encoder Decoder]()
+![](https://github.com/Pratik007-og/Language_Translation/blob/main/eng-fra.jpg)
 
 
   
